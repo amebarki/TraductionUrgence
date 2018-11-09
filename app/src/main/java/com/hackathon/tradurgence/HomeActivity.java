@@ -75,5 +75,8 @@ public class HomeActivity extends AppCompatActivity {
         countries.add(new Country("English", R.drawable.kingdom));
         countries.add(new Country("German", R.drawable.german));
         countries.add(new Country("Spanish", R.drawable.spain));
+        countries.add(new Country("Japenese", R.drawable.japan));
+        countries.add(new Country("Swedish", R.drawable.sweden));
+        countries.add(new Country("Portuguese", R.drawable.brazil));
     }
 }

@@ -10,8 +10,8 @@
     <string name="name_label">Name</string>
     <string name="poids_label">Weight</string>
     <string name="taille_label">Height</string>
-    <string name="weight_metric">Inches</string>
-    <string name="height_metric">Lb</string>
+    <string name="weight_metric">Lb</string>
+    <string name="height_metric">Inches</string>
 
 
 

@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
         <activity
             android:name=".HomeActivity"
             android:screenOrientation="portrait"
@@ -25,10 +25,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PainLocalizeActivity"
+        <activity
+            android:name=".PainLocalizeActivity"
             android:screenOrientation="portrait"
-            android:windowSoftInputMode="adjustNothing">
-        </activity>
+            android:windowSoftInputMode="adjustNothing"></activity>
+        <activity android:name=".AbdoActivity"></activity>
     </application>
 
 </manifest>
