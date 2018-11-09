@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TradUrgence</string>
+    <string name="title">Urgency Traduction</string>
+    <string name="label_language">Language</string>
+
+
+    <string name="age_label">Age</string>
+    <string name="name_label">Nom</string>
+    <string name="poids_label">Poids</string>
+    <string name="taille_label">Taille</string>
+    <string name="weight_metric">Kg</string>
+    <string name="height_metric">Cm</string>
+
+
+
+    <string name="age">ex : 17</string>
+    <string name="name">ex : George</string>
+    <string name="poids">ex : 58 </string>
+    <string name="taille">ex : 173</string>
+    <string name="advertise">Les informations recueillies sont confidentielles et seront utilisées par l\'équipe médicale pour votre prise en charge.</string>
+    <string name="man">Homme</string>
+    <string name="woman">Femme</string>
+
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+
+</resources>

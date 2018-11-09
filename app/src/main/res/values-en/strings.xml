@@ -1,0 +1,35 @@
+<!-- English strings -->
+<resources>
+    <string name="app_name">TradUrgence</string>
+    <string name="title">Urgency Traduction</string>
+    <string name="label_language">Language</string>
+
+
+
+    <string name="age_label">Age</string>
+    <string name="name_label">Name</string>
+    <string name="poids_label">Weight</string>
+    <string name="taille_label">Height</string>
+    <string name="weight_metric">Inches</string>
+    <string name="height_metric">Lb</string>
+
+
+
+    <string name="age">ex : 17</string>
+    <string name="name">ex : George</string>
+    <string name="poids">ex : 58 </string>
+    <string name="taille">ex : 173</string>
+    <string name="advertise">The information collected is confidential and will be used by the medical team for your care.</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+
+</resources>

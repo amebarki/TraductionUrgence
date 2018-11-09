@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TradUrgence</string>
+    <string name="title">Traduccion de emergencia</string>
+    <string name="label_language">Lengua</string>
+
+
+
+    <string name="age_label">age</string>
+    <string name="name_label">name</string>
+    <string name="poids_label">poids</string>
+    <string name="taille_label">taille</string>
+    <string name="weight_metric">Inches</string>
+    <string name="height_metric">Lb</string>
+
+
+    <string name="age">ex : 17</string>
+    <string name="name">ex : George</string>
+    <string name="poids">ex : 58 </string>
+    <string name="taille">ex : 173</string>
+    <string name="advertise"></string>
+    <string name="man">Mano</string>
+    <string name="woman">Womano</string>
+
+
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+</resources>
