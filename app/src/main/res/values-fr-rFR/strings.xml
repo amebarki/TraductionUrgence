@@ -1,7 +1,7 @@
 <!-- French strings -->
 <resources>
     <string name="app_name">TradUrgence</string>
-    <string name="title">Traduction Urgence Fr</string>
+    <string name="title">Traduction Urgence</string>
     <string name="label_language">Langue</string>
 
 

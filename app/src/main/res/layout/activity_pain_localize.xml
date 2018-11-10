@@ -19,18 +19,32 @@
         android:layout_marginRight="16dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/mec_face_dos"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@+id/threepoints"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
+        <Button
+            android:id="@+id/headButton"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/bg_button"
+            />
+        <Button
+            android:id="@+id/torseButton"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/bg_button"
 
+            />
         <Button
             android:id="@+id/abdoButton"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="@android:color/transparent" />
+            android:layout_height="150dp"
+            android:background="@drawable/bg_button"
+
+            />
 
     </LinearLayout>
 
@@ -63,7 +77,7 @@
 
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="@id/buttonNext"
-                android:background="@drawable/woman" />
+                android:background="@drawable/ic_three_dot" />
 
             <Button
                 android:id="@+id/buttonNext"

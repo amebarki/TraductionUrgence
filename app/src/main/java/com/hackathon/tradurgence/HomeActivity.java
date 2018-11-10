@@ -47,7 +47,6 @@ public class HomeActivity extends AppCompatActivity {
         recyclerView.setAdapter(new MyAdapter(countries, new MyAdapter.OnItemClickListener() {
             @Override
             public void onItemClick(Country item) {
-                Toast.makeText(getApplicationContext(), "Item Clicked : " + item.text, Toast.LENGTH_LONG).show();
                 String languageToLoad = null;
                     recreate();
                 if (item.text.equals("Espagne")) {
